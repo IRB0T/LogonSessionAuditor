@@ -6,13 +6,13 @@ EVTX Session Auditor is a web-based application designed to analyze Windows Secu
 This tool is an enhancement of the [LogonSessionAuditor](https://github.com/0xHasanM/LogonSessionAuditor) project, bringing a modern interface and additional filtering capabilities.
 
 ## Features
-✅ Upload Windows Security EVTX log files for analysis
-✅ Filters out service accounts (usernames ending with `$`)
-✅ Parses logon (Event ID: 4624) and logoff (Event IDs: 4634, 4647) events
-✅ Displays results in a web-based table
-✅ Allows downloading the processed results as a CSV file
-✅ Automatically formats timestamps as `YYYY-MM-DD HH:MM:SS`
-✅ Standalone executable available (no need to run Python code)
+✅ Upload Windows Security EVTX log files for analysis <br>
+✅ Filters out service accounts (usernames ending with `$`) <br>
+✅ Parses logon (Event ID: 4624) and logoff (Event IDs: 4634, 4647) events <br>
+✅ Displays results in a web-based table <br>
+✅ Allows downloading the processed results as a CSV file <br>
+✅ Automatically formats timestamps as `YYYY-MM-DD HH:MM:SS` <br>
+✅ Standalone executable available (no need to run Python code) <br>
 
 ## Installation & Usage
 ### Download
